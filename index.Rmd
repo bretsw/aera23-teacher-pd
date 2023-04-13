@@ -323,6 +323,34 @@ include_graphics("img/ecosystem-sm.png")
 
 ---
 
+# `r fa("far fa-compass", fill = "#fff")` Tools for the Job
+
+```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
+include_graphics("img/tools.jpg")
+```
+
+--
+
+We already have the tools we need for consequential education research:
+
+--
+
+- Surveys
+
+--
+
+- Interviews and focus groups
+
+--
+
+- Data mining and content analysis
+
+--
+
+- Case study
+
+---
+
 class: inverse, center, middle
 
 **Bret Staudt Willet** | Florida State University
