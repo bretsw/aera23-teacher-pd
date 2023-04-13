@@ -143,17 +143,17 @@ include_graphics("img/articles.jpg")
 
 --
 
-- **Legitimate peripheral participation** instead of "lurking" [2]
+- **Social comparison** [2] [4]
 
 --
 
-- **Social comparison** [2] [4]
+- **Legitimate peripheral participation** instead of "lurking" [2]
 
 ---
 
 class: inverse, center, middle
 
-# `r fa("far fa-compass", fill = "#fff")` <br><br> Recommendations
+# `r fa("far fa-compass", fill = "#fff")` <br><br> Recommendations <br> for <br> More Consequential <br> Education Research
 
 ---
 
@@ -177,13 +177,17 @@ include_graphics("img/loki.png")
 
 ---
 
-# `r fa("far fa-compass", fill = "#fff")` Digital Literacy
+# `r fa("far fa-compass", fill = "#fff")` Teachers' Agency
 
 ```{r, out.width = "360px", echo = FALSE, fig.align = "center"}
-include_graphics("img/digital-literacy.png")
+include_graphics("img/loki.png")
 ```
 
-"Many participants appeared to use TikTok with limited awareness of how the platform works and related issues that could impact educators" [3]
+**Teacher agency is a finite resource,**
+
+--
+
+**with limited influence and power.**
 
 ---
 
@@ -193,7 +197,15 @@ include_graphics("img/digital-literacy.png")
 include_graphics("img/digital-literacy.png")
 ```
 
---
+"Many participants appeared to use TikTok with limited awareness of how the platform works and related issues that could impact educators" [2]
+
+---
+
+# `r fa("far fa-compass", fill = "#fff")` Digital Literacy
+
+```{r, out.width = "360px", echo = FALSE, fig.align = "center"}
+include_graphics("img/digital-literacy.png")
+```
 
 - Imagined audiences, context collapse, and real consequences [5]
 
@@ -204,6 +216,20 @@ include_graphics("img/digital-literacy.png")
 --
 
 - Networked publics [2]
+
+---
+
+# `r fa("far fa-compass", fill = "#fff")` Digital Literacy
+
+```{r, out.width = "360px", echo = FALSE, fig.align = "center"}
+include_graphics("img/digital-literacy.png")
+```
+
+**No one knows how to do these things naturally;**
+
+--
+
+**Digital literacy must be learned.**
 
 ---
 
@@ -271,7 +297,29 @@ include_graphics("img/ecosystem-sm.png")
 include_graphics("img/ecosystem-sm.png")
 ```
 
-**Socio-Ecological Model:** Individual + Interpersonal + Organizational + Community + Public policy [1]
+**Socio-Ecological Model:** [1]
+
+- Individual
+- Interpersonal
+- Organizational
+- Community
+- Public policy 
+
+---
+
+# `r fa("far fa-compass", fill = "#fff")` Systems Thinking
+
+```{r, out.width = "360px", echo = FALSE, fig.align = "center"}
+include_graphics("img/ecosystem-sm.png")
+```
+
+**Socio-Ecological Model:** `r fa("fas fa-arrow-right", fill = "#782F40")` Our interpretations, implications, recommendations
+
+- Individual
+- Interpersonal
+- Organizational
+- Community
+- Public policy 
 
 ---
 
